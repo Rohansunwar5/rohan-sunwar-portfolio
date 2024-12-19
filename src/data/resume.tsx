@@ -182,7 +182,7 @@ export const DATA = {
     },
     {
       title: "Rocket Sleeves",
-      href: "https://magicui.design",
+      href: "https://rocketsleeves.com",
       dates: "June 2024 - July 2024",
       active: true,
       description:
@@ -208,7 +208,7 @@ export const DATA = {
     },
     {
       title: "Nomads Lane",
-      href: "https://llm.report",
+      href: "http://travel-website-uipg.vercel.app",
       dates: "November 2024 - December 2024",
       active: true,
       description:
@@ -237,7 +237,7 @@ export const DATA = {
     },
     {
       title: "Crowd-Funding",
-      href: "https://automatic.chat",
+      href: "https://crowdfunding-gamma-blue.vercel.app",
       dates: "April 2023 - March 2024",
       active: true,
       description:
